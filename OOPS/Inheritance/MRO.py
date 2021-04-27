@@ -9,7 +9,7 @@ class A:
     def f2(self):
         print("F2 is working")
 
-class B(): 
+class B(A): 
     
     def __init__(self):
         super().__init__()

@@ -4,7 +4,7 @@ class A:
     def f2(self):
         print("F2 is working")
 
-class B():  #inheriting A to B
+class B(): 
     def f3(self):
         print("F3 is working")
     def f4(self):
