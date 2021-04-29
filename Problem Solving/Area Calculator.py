@@ -1,7 +1,7 @@
 import math
 print("Area Calculator")
 def Circle(radius):
-    cir_res=pi*radius*2
+    cir_res=3.16*radius*2
     return cir_res
 def Square(a):
     sq_res= 2*a
